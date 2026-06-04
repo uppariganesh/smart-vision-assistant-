@@ -1,0 +1,7 @@
+{
+  "name": "Smart Vision Assistant",
+  "description": "An AI-powered assistant for visually impaired users to detect obstacles, drops, and rises using real-time camera analysis and voice guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
